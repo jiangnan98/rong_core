@@ -481,7 +481,7 @@ public class CommonUtil {
         if (null == sdkVersion) {
             Properties properties = new Properties();
             try {
-                properties.load(CommonUtil.class.getClassLoader().getResourceAsStream("app.properties"));
+                properties.load(CommonUtil.class.getClassLoader().getResourceAsStream("application.properties"));
                 if (!properties.isEmpty()) {
                     sdkVersion = properties.getProperty("app.version");
                 }

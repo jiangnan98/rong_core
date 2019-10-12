@@ -21,3 +21,51 @@ Error starting ApplicationContext. To display the conditions report re-run your 
 2019-10-12 15:25:35.127 - INFO  [           main] o.s.b.SpringApplication        : The following profiles are active: test
 2019-10-12 15:25:35.584 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.rong]' package. Please check your configuration.
 2019-10-12 15:25:36.344 - INFO  [           main] o.s.b.StartupInfoLogger        : Started ImCoreApplication in 3.081 seconds (JVM running for 4.292)
+2019-10-12 15:27:52.154 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting ImCoreApplication on DESKTOP-ACM5Q28 with PID 3248 (D:\project\demo2\im_core\target\classes started by Administrator in D:\project\demo2\im_core)
+2019-10-12 15:27:52.157 - INFO  [           main] o.s.b.SpringApplication        : The following profiles are active: test
+2019-10-12 15:27:52.486 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.rong]' package. Please check your configuration.
+2019-10-12 15:27:52.514 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.rong]' package. Please check your configuration.
+2019-10-12 15:27:52.795 - WARN  [           main] c.z.h.HikariConfig             : HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2019-10-12 15:27:52.796 - INFO  [           main] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2019-10-12 15:27:53.337 - INFO  [           main] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2019-10-12 15:27:53.632 - INFO  [           main] o.s.b.StartupInfoLogger        : Started ImCoreApplication in 2.266 seconds (JVM running for 3.068)
+2019-10-12 16:19:13.379 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting ImCoreApplication on DESKTOP-ACM5Q28 with PID 10332 (D:\project\demo2\im_core\target\classes started by Administrator in D:\project\demo2\im_core)
+2019-10-12 16:19:13.383 - INFO  [           main] o.s.b.SpringApplication        : The following profiles are active: test
+2019-10-12 16:19:13.840 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.rong]' package. Please check your configuration.
+2019-10-12 16:19:13.873 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.rong]' package. Please check your configuration.
+2019-10-12 16:19:14.298 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 8081 (http)
+2019-10-12 16:19:14.310 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-8081"]
+2019-10-12 16:19:14.317 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-10-12 16:19:14.317 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-12 16:19:14.444 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-10-12 16:19:14.444 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1037 ms
+2019-10-12 16:19:14.609 - INFO  [           main] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-12 16:19:14.766 - WARN  [           main] c.z.h.HikariConfig             : HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2019-10-12 16:19:14.767 - INFO  [           main] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2019-10-12 16:19:15.296 - INFO  [           main] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2019-10-12 16:19:15.517 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-8081"]
+2019-10-12 16:19:15.534 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 8081 (http) with context path '/rong_core'
+2019-10-12 16:19:15.537 - INFO  [           main] o.s.b.StartupInfoLogger        : Started ImCoreApplication in 2.926 seconds (JVM running for 3.693)
+2019-10-12 16:19:23.404 - INFO  [nio-8081-exec-2] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-12 16:19:23.404 - INFO  [nio-8081-exec-2] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-10-12 16:19:23.412 - INFO  [nio-8081-exec-2] o.s.w.s.FrameworkServlet       : Completed initialization in 8 ms
+2019-10-12 16:36:29.379 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting ImCoreApplication on DESKTOP-ACM5Q28 with PID 7172 (D:\project\demo2\im_core\target\classes started by Administrator in D:\project\demo2\im_core)
+2019-10-12 16:36:29.384 - INFO  [           main] o.s.b.SpringApplication        : The following profiles are active: test
+2019-10-12 16:36:29.869 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.rong]' package. Please check your configuration.
+2019-10-12 16:36:29.907 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.rong]' package. Please check your configuration.
+2019-10-12 16:36:30.341 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 8081 (http)
+2019-10-12 16:36:30.353 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-8081"]
+2019-10-12 16:36:30.360 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-10-12 16:36:30.361 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-12 16:36:30.450 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-10-12 16:36:30.450 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1035 ms
+2019-10-12 16:36:30.751 - INFO  [           main] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-12 16:36:30.929 - WARN  [           main] c.z.h.HikariConfig             : HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2019-10-12 16:36:30.929 - INFO  [           main] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2019-10-12 16:36:31.437 - INFO  [           main] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2019-10-12 16:36:31.640 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-8081"]
+2019-10-12 16:36:31.662 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 8081 (http) with context path '/rong_core'
+2019-10-12 16:36:31.665 - INFO  [           main] o.s.b.StartupInfoLogger        : Started ImCoreApplication in 3.201 seconds (JVM running for 4.076)
+2019-10-12 16:36:36.435 - INFO  [nio-8081-exec-2] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-12 16:36:36.435 - INFO  [nio-8081-exec-2] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-10-12 16:36:36.440 - INFO  [nio-8081-exec-2] o.s.w.s.FrameworkServlet       : Completed initialization in 5 ms

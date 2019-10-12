@@ -7,7 +7,7 @@
  */
 package com.rong.util;
 
-import com.rong.methods.chatroom.*;
+import com.rong.methods.chatroom.Chatroom;
 import com.rong.methods.conversation.Conversation;
 import com.rong.methods.group.Group;
 import com.rong.methods.message.Message;
@@ -15,8 +15,6 @@ import com.rong.methods.push.Push;
 import com.rong.methods.sensitive.SensitiveWord;
 import com.rong.methods.sensitive.Wordfilter;
 import com.rong.methods.user.User;
-import com.rong.util.HostType;
-import com.rong.util.HttpUtil;
 
 import java.util.ArrayList;
 import java.util.List;
