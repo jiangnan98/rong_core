@@ -1,0 +1,23 @@
+2019-10-12 15:22:50.114 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting ImCoreApplication on DESKTOP-ACM5Q28 with PID 12980 (D:\project\demo2\im_core\target\classes started by Administrator in D:\project\demo2\im_core)
+2019-10-12 15:22:50.117 - INFO  [           main] o.s.b.SpringApplication        : The following profiles are active: test
+2019-10-12 15:22:50.429 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.rong]' package. Please check your configuration.
+2019-10-12 15:22:50.734 - WARN  [           main] c.s.AbstractApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'gsonBuilder' defined in class path resource [org/springframework/boot/autoconfigure/gson/GsonAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.google.gson.GsonBuilder]: Factory method 'gsonBuilder' threw exception; nested exception is java.lang.BootstrapMethodError: java.lang.NoSuchMethodError: com.google.gson.GsonBuilder.setLenient()Lcom/google/gson/GsonBuilder;
+2019-10-12 15:22:50.841 - INFO  [           main] valuationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-12 15:23:27.880 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting ImCoreApplication on DESKTOP-ACM5Q28 with PID 11788 (D:\project\demo2\im_core\target\classes started by Administrator in D:\project\demo2\im_core)
+2019-10-12 15:23:27.881 - INFO  [           main] o.s.b.SpringApplication        : The following profiles are active: test
+2019-10-12 15:23:28.187 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.rong]' package. Please check your configuration.
+2019-10-12 15:23:28.578 - INFO  [           main] o.s.b.StartupInfoLogger        : Started ImCoreApplication in 1.477 seconds (JVM running for 2.253)
+2019-10-12 15:24:19.986 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting ImCoreApplication on DESKTOP-ACM5Q28 with PID 14300 (D:\project\demo2\im_core\target\classes started by Administrator in D:\project\demo2\im_core)
+2019-10-12 15:24:19.988 - INFO  [           main] o.s.b.SpringApplication        : The following profiles are active: test
+2019-10-12 15:24:20.318 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.rong]' package. Please check your configuration.
+2019-10-12 15:24:20.701 - INFO  [           main] o.s.b.StartupInfoLogger        : Started ImCoreApplication in 1.512 seconds (JVM running for 2.41)
+2019-10-12 15:24:41.600 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting ImCoreApplication on DESKTOP-ACM5Q28 with PID 12348 (D:\project\demo2\im_core\target\classes started by Administrator in D:\project\demo2\im_core)
+2019-10-12 15:24:41.602 - INFO  [           main] o.s.b.SpringApplication        : The following profiles are active: test
+2019-10-12 15:24:41.905 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.rong]' package. Please check your configuration.
+2019-10-12 15:24:42.288 - INFO  [           main] o.s.b.StartupInfoLogger        : Started ImCoreApplication in 1.438 seconds (JVM running for 2.15)
+2019-10-12 15:25:35.116 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting ImCoreApplication on DESKTOP-ACM5Q28 with PID 1064 (D:\project\demo2\im_core\target\classes started by Administrator in D:\project\demo2\im_core)
+2019-10-12 15:25:35.127 - INFO  [           main] o.s.b.SpringApplication        : The following profiles are active: test
+2019-10-12 15:25:35.584 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.rong]' package. Please check your configuration.
+2019-10-12 15:25:36.344 - INFO  [           main] o.s.b.StartupInfoLogger        : Started ImCoreApplication in 3.081 seconds (JVM running for 4.292)
