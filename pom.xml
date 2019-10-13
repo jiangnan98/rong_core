@@ -17,7 +17,7 @@
     </properties>
     <groupId>com.rong</groupId>
     <artifactId>im_core</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>im_core</name>
     <description>
         For improving the efficiency of developers,RongCloud provides an open source IM Server SDK officially.
@@ -33,13 +33,7 @@
         <url>https://github.com/rongcloud</url>
     </organization>
     <licenses>
-        <license>
-            <name>Apache 2</name>
-            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-            <distribution>repo</distribution>
-            <comments>A business-friendly OSS license</comments>
-        </license>
-    </licenses>
+     </licenses>
     <developers>
         <developer>
             <id>rongcloud</id>
@@ -103,6 +97,7 @@
             <optional>true</optional>
         </dependency>
     </dependencies>
+
     <build>
         <plugins>
             <plugin>
@@ -117,7 +112,12 @@
                     </compilerArguments>
                 </configuration>
             </plugin>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
         </plugins>
+
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
